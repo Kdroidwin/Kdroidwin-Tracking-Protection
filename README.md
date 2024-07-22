@@ -2,7 +2,12 @@
 これはAdGuardやuBlock Origin向けのトラッキング防止フィルターです。
 極力不具合は避けていますが、AdGuard公式がリストインしないだけあってか、多少不具合は被ります。
 
-# 追加方法
+# フィルター追加方法
+
+```
+https://raw.githubusercontent.com/Kdroidwin/Kdroidwin-Tracking-Protection/main/adguard_user_rules_2207_103417.txt
+```
+上記リンクをAdGuardアプリのカスタムフィルターに追加
 
 
 
