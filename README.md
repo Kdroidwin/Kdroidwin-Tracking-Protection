@@ -7,14 +7,15 @@
 ```
 https://raw.githubusercontent.com/Kdroidwin/Kdroidwin-Tracking-Protection/main/adguard_user_rules_2207_103417.txt
 ```
-上記リンクをAdGuardアプリのカスタムフィルターに追加
+上記リンクをAdGuardアプリの⚙アイコン>フィルタリング>フィルタ>カスタムフィルタからカスタムフィルターに追加
+
+uBlockoriginの場合はフィルターリスト>インポートから
 
 
+# 補足
 
 
-
-- 既知の不具合
-
-- 補足
 ||static.line-scdn.net^$app=jp.naver.line.android
 を追加するとアンケートやスタンプ購入などのLINEのほとんどの機能(基本的なトークは可能)は使えないがトラッキングはかなり減らせる。
+
+- 既知の不具合
