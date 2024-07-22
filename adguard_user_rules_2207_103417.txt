@@ -2,7 +2,6 @@
 ||graph.facebook.com^$app=jp.naver.line.android
 ||yuki-cdn.line-apps.com^$app=jp.naver.line.android
 ||linecrs.line-scdn.net^$app=jp.naver.line.android
-||static.line-scdn.net^$app=jp.naver.line.android
 ||2600:9000:26aa:9a00:7:2398:3e00:21^$app=jp.naver.line.android
 ||legy-jp.line-apps.com^$app=jp.naver.line.android
 ||uts-front.line-apps.com^$app=jp.naver.line.android
