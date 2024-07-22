@@ -26,3 +26,5 @@ LINE Facebook関連の機能が使えない
 おすすめのリポジトリ
 [uBlacklistのフィルター](https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin?tab=readme-ov-file)
 
+# 連絡先
+kdroidwin.hatenablog.com
