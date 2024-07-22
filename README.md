@@ -22,3 +22,4 @@ uBlockoriginの場合はフィルターリスト>インポートから
 [uBlacklistのフィルター](https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin?tab=readme-ov-file)
 
 - 既知の不具合
+LINE Facebook関連の機能が使えな
