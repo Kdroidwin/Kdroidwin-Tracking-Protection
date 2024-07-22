@@ -18,4 +18,7 @@ uBlockoriginの場合はフィルターリスト>インポートから
 ||static.line-scdn.net^$app=jp.naver.line.android
 を追加するとアンケートやスタンプ購入などのLINEのほとんどの機能(基本的なトークは可能)は使えないがトラッキングはかなり減らせる。
 
+他にもおすすめのリポジトリ
+[uBlacklistのフィルター](https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin?tab=readme-ov-file)
+
 - 既知の不具合
