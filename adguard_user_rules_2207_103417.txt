@@ -42,6 +42,7 @@
 !Androidユーザー向け
 ||searchnotifications-pa.googleapis.com^$app=com.google.android.googlequicksearchbox
 ||userlocation.googleapis.com^$important,app=com.google.android.gsf
+||semanticlocation-pa.googleapis.com^
 ||firebase-settings.crashlytics.com^
 ||firebaselogging.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
