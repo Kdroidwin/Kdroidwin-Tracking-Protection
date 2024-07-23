@@ -19,14 +19,18 @@ uBlockoriginの場合はフィルターリスト>インポートから
 を追加するとアンケートやスタンプ購入などのLINEのほとんどの機能(基本的なトークは可能)は使えないがトラッキングはかなり減らせる。
 
 
-# 既知の不具合 (これらの通信はトラッキングがふくまれるので修正しない)
+# 既知の不具合 
 - LINE Facebook関連の機能が使えない
 - LINE 初回ログインができないときがある
 - LINEのマップ機能は動作しない
+
+(これらの通信はトラッキングがふくまれるので修正しない)
 
 # 他にも
 おすすめのリポジトリ
 [uBlacklistのフィルター](https://github.com/Kdroidwin/uBlacklist-filter-by-kdroidwin?tab=readme-ov-file)
 
 # 連絡先
-kdroidwin.hatenablog.com
+[Twitter](https://x.com/Kdroidwin1)
+[ブログ](kdroidwin.hatenablog.com)
+
