@@ -1,6 +1,11 @@
 ! Title: Kdroidwin Tracking Protection
 ! Homepage: https://github.com/Kdroidwin/Kdroidwin-Tracking-Protection
 
+!作者　Kdroidwin
+!Twitter @Kdroidwin1
+!Web https://kdroidwin.hatenablog.com
+
+
 !LINE
 ||firebase-settings.crashlytics.com^$app=jp.naver.line.android
 ||graph.facebook.com^$app=jp.naver.line.android
