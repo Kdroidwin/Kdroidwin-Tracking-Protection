@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/Kdroidwin/Kdroidwin-Tracking-Protection/main/a
 ```
 上記リンクをAdGuardアプリの⚙アイコン>フィルタリング>フィルタ>カスタムフィルタからカスタムフィルターに追加
 
-uBlockoriginの場合はフィルターを改変する必要があります。
+uBlockoriginの場合は一部AdGuard専用のルールが使われているため、フィルターを改変する必要があります。(目のアイコンで確認可能)
 
 
 # 補足
