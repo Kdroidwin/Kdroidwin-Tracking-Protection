@@ -1,5 +1,5 @@
 # Kdroidwin-Tracking-Protection
-これはAdGuardやuBlock Origin向けのトラッキング防止フィルターです。どのアプリが対応しているかはフィルターを直接みてください。
+これはアプリ版AdGuard向けのトラッキング防止フィルターです。どのアプリが対応しているかはフィルターを直接みてください。
 極力不具合は避けていますが、AdGuard公式がリストインしないだけあってか、多少不具合は被ります。
 
 # フィルター追加方法
@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/Kdroidwin/Kdroidwin-Tracking-Protection/main/a
 ```
 上記リンクをAdGuardアプリの⚙アイコン>フィルタリング>フィルタ>カスタムフィルタからカスタムフィルターに追加
 
-uBlockoriginの場合はフィルターリスト>インポートから
+uBlockoriginの場合はフィルターを改変する必要があります。
 
 
 # 補足
