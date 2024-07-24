@@ -37,11 +37,13 @@
 ||lf16-sourcecdn-tos.ibytedtos.com^$app=com.bd.nproject
 ||mon-va.byteoversea.com^$app=com.bd.nproject
 ||dns.google.com^$app=com.bd.nproject
-||jsb-sg.byteoversea.com^$app=com.bd.nproject
-||rtlog.isnssdk.com^$app=com.bd.nproject
+||jsb-sg.byteoversea.com^
+||rtlog.isnssdk.com^
 ||lf16-effectcdn.byteeffecttos-g.com^$app=com.bd.nproject
 ||gecko-va.byteoversea.com^$app=com.bd.nproject
 ||gecko-va.byteoversea.com^
+||lf16-effectcdn.byteeffecttos-g.com^
+
 
 !ChatGPT
 ||o33249.ingest.sentry.io^$app=com.openai.chatgpt
