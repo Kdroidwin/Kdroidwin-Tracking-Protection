@@ -25,6 +25,18 @@
 !Lemon8
 ||graph.facebook.com^$app=com.bd.nproject
 ||mssdk-va.byteoversea.com^$app=com.bd.nproject
+||34.102.147.19:443^
+||34.110.200.237:443^
+||frontier-va.byteoversea.com^$important,app=com.bd.nproject
+||p16-sign-va.lemon8cdn.com^$app=com.bd.nproject
+||lf16-sourcecdn-tos.ibytedtos.com^$app=com.bd.nproject
+||mon-va.byteoversea.com^$app=com.bd.nproject
+||dns.google.com^$app=com.bd.nproject
+||jsb-sg.byteoversea.com^$app=com.bd.nproject
+||rtlog.isnssdk.com^$app=com.bd.nproject
+||lf16-effectcdn.byteeffecttos-g.com^$app=com.bd.nproject
+||gecko-va.byteoversea.com^$app=com.bd.nproject
+||gecko-va.byteoversea.com^
 
 !ChatGPT
 ||o33249.ingest.sentry.io^$app=com.openai.chatgpt
