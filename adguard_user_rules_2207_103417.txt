@@ -44,6 +44,8 @@
 ||gecko-va.byteoversea.com^
 ||lf16-effectcdn.byteeffecttos-g.com^
 ||log22-normal-useast1a.lemon8-app.com^
+||api22-normal.lemon8-app.com^
+||api16-normal.lemon8-app.com^
 
 !ChatGPT
 ||o33249.ingest.sentry.io^$app=com.openai.chatgpt
