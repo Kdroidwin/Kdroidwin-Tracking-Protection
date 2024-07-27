@@ -43,7 +43,7 @@
 ||gecko-va.byteoversea.com^$app=com.bd.nproject
 ||gecko-va.byteoversea.com^
 ||lf16-effectcdn.byteeffecttos-g.com^
-
+||log22-normal-useast1a.lemon8-app.com^
 
 !ChatGPT
 ||o33249.ingest.sentry.io^$app=com.openai.chatgpt
