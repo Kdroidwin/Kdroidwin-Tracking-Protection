@@ -23,7 +23,8 @@ uBlockoriginの場合はAdGuard専用のルールが使われているため、�
 - LINE Facebook関連の機能が使えない
 - LINE 初回ログインができないときがある
 - LINEのマップ機能は動作しない
-- LINEのプロフィール画像が見れない(uts-front.line-apps.com)
+- LINEのプロフィール画像が見れない
+ (uts-front.line-apps.com  profile.line-scdn.net)
 
 (これらの通信はトラッキングが含まれるので修正しない)
 
