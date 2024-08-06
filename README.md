@@ -18,6 +18,8 @@ uBlockoriginの場合はAdGuard専用のルールが使われているため、�
 ||static.line-scdn.net^$app=jp.naver.line.android
 を追加するとアンケートやスタンプ購入などのLINEのほとんどの機能(基本的なトークは可能)は使えないがトラッキングは減らせる。
 
+多くの外部フィルターに||logos.kiwibrowser.com^が含まれるがこれはスタートページのロゴを取得するために必要な通信である。
+
 
 # 既知の不具合 
 - LINE Facebook関連の機能が使えない
