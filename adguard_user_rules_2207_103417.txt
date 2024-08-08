@@ -69,7 +69,6 @@
 ||firebaselogging-pa.googleapis.com^
 ||androidtvchannels-pa.googleapis.com^
 ||clientmetrics-pa.googleapis.com^
-||jnn-pa.googleapis.com^
 ||ad-creatives-public.commondatastorage.googleapis.com^
 
 
