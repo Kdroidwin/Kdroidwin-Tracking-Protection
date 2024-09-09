@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/Kdroidwin/Kdroidwin-Tracking-Protection/main/a
 - LINE 初回ログインができないときがある
 - LINEのマップ機能は動作しない
 - LINEのプロフィール画像が見れない
- (uts-front.line-apps.com  profile.line-scdn.net)
+ (profile.line-scdn.net)
 
 (これらの通信はトラッキングが含まれるので修正しない)
 
