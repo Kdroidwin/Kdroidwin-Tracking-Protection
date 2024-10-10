@@ -14,7 +14,6 @@
 ||2600:9000:26aa:9a00:7:2398:3e00:21^$app=jp.naver.line.android
 ||legy-jp.line-apps.com^$app=jp.naver.line.android
 ||uts-front.line-apps.com^$app=jp.naver.line.android
-||profile.line-scdn.net^$app=jp.naver.line.android
 ||firebaselogging-pa.googleapis.com^$app=jp.naver.line.android
 ||cix.line-apps.com^$app=jp.naver.line.android
 ||firebaseremoteconfig.googleapis.com^$app=jp.naver.line.android
